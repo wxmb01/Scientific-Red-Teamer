@@ -1,0 +1,5 @@
+openai
+streamlit
+arxiv
+PyPDF2
+pandas

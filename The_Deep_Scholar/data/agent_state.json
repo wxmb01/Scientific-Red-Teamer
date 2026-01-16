@@ -1,0 +1,11 @@
+{
+  "goal": "Large Language Models often hallucinate and fail in simple reasoning",
+  "current_hypothesis": "Evidence from Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning suggests flaws in Large Language Models often hallucinate and fail in simple reasoning",
+  "known_facts": [
+    "[Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning] -> The paper relies on a potential distribution shift fallacy; evaluating models on 'noise suppression' without evidence that such noise was part of the training distribution measures robustness, not necessarily reasoning logic. Additionally, the appeal to 'brain science' to define evaluation tasks is a loose analogy that may not map rigorously to algorithmic attention mechanisms."
+  ],
+  "failed_attempts": 0,
+  "strategy": "broad_search",
+  "last_thought": "Found 5 potential evidence docs for 'LLM robustness to irrelevant context in reasoning tasks'.",
+  "step_count": 2
+}
