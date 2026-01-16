@@ -78,3 +78,10 @@ The system utilizes a **Recursive OODA Loop** (Observe, Orient, Decide, Act):
 
 ## 📄 License
 MIT License
+## ⚖️ Disclaimer & Ethical Use
+
+This project, **Scientific Red Teamer**, is an educational and research tool designed to combat scientific misinformation by rigorously stress-testing hypotheses.
+
+* **Academic Purpose**: The terms "Red Teaming," "Attack," and "Audit" used in this project refer strictly to the **adversarial testing of logic, methodology, and data integrity**. This tool is designed to challenge *ideas* and *theories*, not to target or harass *individuals*.
+* **AI Limitations**: The analysis and reports generated are based on Large Language Model (Gemini 3) outputs. While the system implements grounding techniques (e.g., L1-L3 reasoning), AI models can still hallucinate or produce biased results.
+* **User Responsibility**: All findings should be verified by human experts before being used in serious academic work. The developers are not responsible for any misuse of this tool.
