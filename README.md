@@ -71,8 +71,9 @@ The system utilizes a **Recursive OODA Loop** (Observe, Orient, Decide, Act):
 
 ## 📸 Screenshots
 
-*(Place a screenshot <img width="2538" height="1378" alt="QQ20260117-014415" src="https://github.com/user-attachments/assets/d1792dd1-2121-4286-9bec-d1866f4aafc8" />
-of your Streamlit Evidence Graph here!)*<img width="2538" height="1378" alt="QQ20260117-014415" src="https://github.com/user-attachments/assets/e489cfa1-3658-4031-82e8-cd4db5c40e7b" />
+<img width="2541" height="1461" alt="QQ20260117-014403" src="https://github.com/user-attachments/assets/af3ebfb5-6bba-46a2-a0e6-d53a8f79e8fc" />
+
+<img width="2538" height="1378" alt="QQ20260117-014415" src="https://github.com/user-attachments/assets/2cf643e7-7eea-4cab-9b6e-8ceeb4e0914b" />
 
 
 ## 📄 License
